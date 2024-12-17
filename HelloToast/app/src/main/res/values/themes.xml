@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.HelloToast" parent="Theme.MaterialComponents.DayNight">
+        <item name="android:textColorPrimary">@color/white</item>
+
+    </style>
+
+    <style name="Theme.HelloToast" parent="Base.Theme.HelloToast" />
+
+</resources>
