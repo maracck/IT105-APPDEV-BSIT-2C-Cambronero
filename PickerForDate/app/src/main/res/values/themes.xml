@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PickerForDate" parent="Theme.MaterialComponents.DayNight">
+        <item name="android:textColor">@color/black</item>
+
+    </style>
+
+    <style name="Theme.PickerForDate" parent="Base.Theme.PickerForDate" />
+</resources>
